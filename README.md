@@ -1,12 +1,12 @@
-### Hi there, I'm Kamon Ahmed - aka [Sabesan][website] 👋
+### Hi there, I'm Kamon Ahmed  👋
 
 
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🔭 I’m currently working on a Dev-Chat app!
+- 🌱 I’m currently learning Chat-Engin
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contributeto Open Source projects
+- ⚡ Fun fact: I love to creating and listening music.
 
 **Languages and Tools:**
 
@@ -21,10 +21,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />]
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]](https://www.linkedin.com/in/kamon-ahmed/)
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
