@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Dev-Chat app!
 - 🌱 I’m currently learning Chat-Engin
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contributeto Open Source projects
+- 🥅 2022 Goals: Contributeto Open Source projects
 - ⚡ Fun fact: I love to creating and listening music.
 
 **Languages and Tools:**
